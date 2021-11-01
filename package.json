@@ -1,0 +1,18 @@
+{
+  "name": "coreplus",
+  "version": "1.0.0",
+  "description": "✨ JavaScript addons to help your day to day",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helpful",
+    "addon",
+    "classes",
+    "decimals",
+    "typing"
+  ],
+  "author": "ephf",
+  "license": "ISC"
+}
